@@ -1,0 +1,49 @@
+{
+    "maintest": "ca-app-pub-3940256099942544/1033173712",
+    "bannertest": "ca-app-pub-3940256099942544/6300978111",
+    "adConfig": {
+        "main": {
+            "id": "ca-app-pub-3940256099942544/1033173712",
+            "display": false
+        },
+        "banner": {
+            "id": "ca-app-pub-3940256099942544/6300978111",
+            "display": false
+        },
+        "dialog": {
+            "id": "ca-app-pub-3940256099942544/6300978111",
+            "display": false
+        }
+    },
+    "listMode": "file",
+    "listInit": "Y",
+    "marketVersion": "1.0.0",
+    "onlyMyAd": "1",
+    "pageSize": "20",
+    "dbType": "github",
+    "restSaveToken": "http://ltkblue.asuscomm.com:81/ci/app/saveToken",
+    "myAdLink": "http://ltkblue.asuscomm.com:81/ci/ad/market",
+    "restYtListPageUrl": "http://ltkblue.asuscomm.com:81/ci/yt/dummyList",
+    "gitHubYtListPageUrl": "https://pks21345.github.io/ytdb/",
+    "gitHubYtListUpdateUrl": "https://pks21345.github.io/ytdb/update/",
+    "reviewLink": "https://play.google.com/store/apps/details?id=",
+    "testDeviceList": [
+        {
+            "deviceId": "10F3265F73DF5FBBFB151DCD33C4B204"
+        }
+    ],
+    "tabInfo": [
+        {
+            "name": "임영웅",
+            "path": "임영웅.json"
+        },
+        {
+            "name": "인기 트로트",
+            "path": "트로트.json"
+        },
+        {
+            "name": "보관함",
+            "path": ""
+        }
+    ]
+}
